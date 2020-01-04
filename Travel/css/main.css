@@ -1,0 +1,15 @@
+
+/* Search */
+.section-search input{
+    padding: 5px !important;
+    font-size: 18px !important;
+    width: 90% !important;
+    border: 3px #f4f4f4 solid !important;
+}
+
+/* Follow */
+.section-follow .fa-4x {
+    margin: 5px 10px;
+
+}
+
